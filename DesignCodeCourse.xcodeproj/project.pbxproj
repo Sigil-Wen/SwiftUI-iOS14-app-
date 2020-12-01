@@ -15,6 +15,53 @@
 		FA4E414A25754C2C00716964 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E411F25754C2A00716964 /* ContentView.swift */; };
 		FA4E414B25754C2C00716964 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4E412025754C2C00716964 /* Assets.xcassets */; };
 		FA4E414C25754C2C00716964 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4E412025754C2C00716964 /* Assets.xcassets */; };
+		FA4E41602575655C00716964 /* CourseRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E415F2575655C00716964 /* CourseRow.swift */; };
+		FA4E41612575655C00716964 /* CourseRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E415F2575655C00716964 /* CourseRow.swift */; };
+		FA4E41672575AC8300716964 /* CoursesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41662575AC8300716964 /* CoursesView.swift */; };
+		FA4E41682575AC8300716964 /* CoursesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41662575AC8300716964 /* CoursesView.swift */; };
+		FA4E416E2575ADD300716964 /* Sidebar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E416D2575ADD300716964 /* Sidebar.swift */; };
+		FA4E416F2575ADD300716964 /* Sidebar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E416D2575ADD300716964 /* Sidebar.swift */; };
+		FA4E41752575B60E00716964 /* Courseitem.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41742575B60E00716964 /* Courseitem.swift */; };
+		FA4E41762575B60E00716964 /* Courseitem.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41742575B60E00716964 /* Courseitem.swift */; };
+		FA4E41822575B80700716964 /* CourseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41812575B80700716964 /* CourseList.swift */; };
+		FA4E41832575B80700716964 /* CourseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41812575B80700716964 /* CourseList.swift */; };
+		FA4E418D2575C72200716964 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E418C2575C72200716964 /* Course.swift */; };
+		FA4E418E2575C72300716964 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E418C2575C72200716964 /* Course.swift */; };
+		FA4E41992575D33900716964 /* CloseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41982575D33900716964 /* CloseButton.swift */; };
+		FA4E419A2575D33900716964 /* CloseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41982575D33900716964 /* CloseButton.swift */; };
+		FA4E41A02575D67F00716964 /* CourseDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E419F2575D67F00716964 /* CourseDetail.swift */; };
+		FA4E41A12575D67F00716964 /* CourseDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E419F2575D67F00716964 /* CourseDetail.swift */; };
+		FA4E41AD2575D87E00716964 /* TutorialSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41A62575D87E00716964 /* TutorialSection.swift */; };
+		FA4E41AE2575D87E00716964 /* TutorialSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41A62575D87E00716964 /* TutorialSection.swift */; };
+		FA4E41AF2575D87E00716964 /* LivestreamSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41A72575D87E00716964 /* LivestreamSection.swift */; };
+		FA4E41B02575D87E00716964 /* LivestreamSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41A72575D87E00716964 /* LivestreamSection.swift */; };
+		FA4E41B12575D87E00716964 /* Livestream.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41A82575D87E00716964 /* Livestream.swift */; };
+		FA4E41B22575D87E00716964 /* Livestream.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41A82575D87E00716964 /* Livestream.swift */; };
+		FA4E41B32575D87E00716964 /* Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41A92575D87E00716964 /* Tutorial.swift */; };
+		FA4E41B42575D87E00716964 /* Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41A92575D87E00716964 /* Tutorial.swift */; };
+		FA4E41B52575D87E00716964 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41AA2575D87E00716964 /* CourseSection.swift */; };
+		FA4E41B62575D87E00716964 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41AA2575D87E00716964 /* CourseSection.swift */; };
+		FA4E41B72575D87E00716964 /* GradientModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41AB2575D87E00716964 /* GradientModel.swift */; };
+		FA4E41B82575D87E00716964 /* GradientModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41AB2575D87E00716964 /* GradientModel.swift */; };
+		FA4E41B92575D87E00716964 /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41AC2575D87E00716964 /* Download.swift */; };
+		FA4E41BA2575D87E00716964 /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41AC2575D87E00716964 /* Download.swift */; };
+		FA4E41C02575DA2F00716964 /* VisualEffectBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41BF2575DA2F00716964 /* VisualEffectBlur.swift */; };
+		FA4E41C62575DA4400716964 /* VisualEffectBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41C52575DA4400716964 /* VisualEffectBlur.swift */; };
+		FA4E41CC257673A100716964 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41CB257673A100716964 /* TabBar.swift */; };
+		FA4E41D22576790800716964 /* CourseSectionDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41D12576790800716964 /* CourseSectionDetail.swift */; };
+		FA4E41D32576790800716964 /* CourseSectionDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41D12576790800716964 /* CourseSectionDetail.swift */; };
+		FA4E41D92576806B00716964 /* LibraryContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41D82576806B00716964 /* LibraryContent.swift */; };
+		FA4E41DA2576806B00716964 /* LibraryContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41D82576806B00716964 /* LibraryContent.swift */; };
+		FA4E41EF2576838700716964 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA4E41EE2576838600716964 /* WidgetKit.framework */; };
+		FA4E41F12576838700716964 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA4E41F02576838700716964 /* SwiftUI.framework */; };
+		FA4E41F42576838700716964 /* DesignCodeWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41F32576838700716964 /* DesignCodeWidget.swift */; };
+		FA4E41F72576838900716964 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4E41F62576838900716964 /* Assets.xcassets */; };
+		FA4E41F92576838900716964 /* DesignCodeWidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41F52576838700716964 /* DesignCodeWidget.intentdefinition */; };
+		FA4E41FA2576838900716964 /* DesignCodeWidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41F52576838700716964 /* DesignCodeWidget.intentdefinition */; };
+		FA4E41FD2576838900716964 /* DesignCodeWidgetExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = FA4E41EC2576838600716964 /* DesignCodeWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		FA4E4207257685D400716964 /* CourseRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E415F2575655C00716964 /* CourseRow.swift */; };
+		FA4E420D2576860500716964 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E41AA2575D87E00716964 /* CourseSection.swift */; };
+		FA4E42132576861800716964 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4E412025754C2C00716964 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,7 +79,28 @@
 			remoteGlobalIDString = FA4E412C25754C2C00716964;
 			remoteInfo = "DesignCodeCourse (macOS)";
 		};
+		FA4E41FB2576838900716964 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FA4E411925754C2A00716964 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FA4E41EB2576838600716964;
+			remoteInfo = DesignCodeWidgetExtension;
+		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		FA4E42012576838900716964 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				FA4E41FD2576838900716964 /* DesignCodeWidgetExtension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		FA4E411E25754C2A00716964 /* DesignCodeCourseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCodeCourseApp.swift; sourceTree = "<group>"; };
@@ -49,6 +117,33 @@
 		FA4E414025754C2C00716964 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA4E414425754C2C00716964 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		FA4E414625754C2C00716964 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA4E415F2575655C00716964 /* CourseRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseRow.swift; sourceTree = "<group>"; };
+		FA4E41662575AC8300716964 /* CoursesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoursesView.swift; sourceTree = "<group>"; };
+		FA4E416D2575ADD300716964 /* Sidebar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sidebar.swift; sourceTree = "<group>"; };
+		FA4E41742575B60E00716964 /* Courseitem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Courseitem.swift; sourceTree = "<group>"; };
+		FA4E41812575B80700716964 /* CourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseList.swift; sourceTree = "<group>"; };
+		FA4E418C2575C72200716964 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
+		FA4E41982575D33900716964 /* CloseButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloseButton.swift; sourceTree = "<group>"; };
+		FA4E419F2575D67F00716964 /* CourseDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseDetail.swift; sourceTree = "<group>"; };
+		FA4E41A62575D87E00716964 /* TutorialSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialSection.swift; sourceTree = "<group>"; };
+		FA4E41A72575D87E00716964 /* LivestreamSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LivestreamSection.swift; sourceTree = "<group>"; };
+		FA4E41A82575D87E00716964 /* Livestream.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Livestream.swift; sourceTree = "<group>"; };
+		FA4E41A92575D87E00716964 /* Tutorial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tutorial.swift; sourceTree = "<group>"; };
+		FA4E41AA2575D87E00716964 /* CourseSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseSection.swift; sourceTree = "<group>"; };
+		FA4E41AB2575D87E00716964 /* GradientModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientModel.swift; sourceTree = "<group>"; };
+		FA4E41AC2575D87E00716964 /* Download.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Download.swift; sourceTree = "<group>"; };
+		FA4E41BF2575DA2F00716964 /* VisualEffectBlur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisualEffectBlur.swift; sourceTree = "<group>"; };
+		FA4E41C52575DA4400716964 /* VisualEffectBlur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisualEffectBlur.swift; sourceTree = "<group>"; };
+		FA4E41CB257673A100716964 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		FA4E41D12576790800716964 /* CourseSectionDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseSectionDetail.swift; sourceTree = "<group>"; };
+		FA4E41D82576806B00716964 /* LibraryContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryContent.swift; sourceTree = "<group>"; };
+		FA4E41EC2576838600716964 /* DesignCodeWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = DesignCodeWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA4E41EE2576838600716964 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		FA4E41F02576838700716964 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		FA4E41F32576838700716964 /* DesignCodeWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCodeWidget.swift; sourceTree = "<group>"; };
+		FA4E41F52576838700716964 /* DesignCodeWidget.intentdefinition */ = {isa = PBXFileReference; lastKnownFileType = file.intentdefinition; path = DesignCodeWidget.intentdefinition; sourceTree = "<group>"; };
+		FA4E41F62576838900716964 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA4E41F82576838900716964 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +175,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FA4E41E92576838600716964 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA4E41F12576838700716964 /* SwiftUI.framework in Frameworks */,
+				FA4E41EF2576838700716964 /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -91,6 +195,8 @@
 				FA4E412E25754C2C00716964 /* macOS */,
 				FA4E413825754C2C00716964 /* Tests iOS */,
 				FA4E414325754C2C00716964 /* Tests macOS */,
+				FA4E41F22576838700716964 /* DesignCodeWidget */,
+				FA4E41ED2576838600716964 /* Frameworks */,
 				FA4E412625754C2C00716964 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -98,8 +204,15 @@
 		FA4E411D25754C2A00716964 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				FA4E41DF2576832B00716964 /* Library */,
 				FA4E411E25754C2A00716964 /* DesignCodeCourseApp.swift */,
-				FA4E411F25754C2A00716964 /* ContentView.swift */,
+				FA4E417B2575B74B00716964 /* Navigation */,
+				FA4E417C2575B76E00716964 /* Items */,
+				FA4E41662575AC8300716964 /* CoursesView.swift */,
+				FA4E419F2575D67F00716964 /* CourseDetail.swift */,
+				FA4E41D12576790800716964 /* CourseSectionDetail.swift */,
+				FA4E41932575CA1D00716964 /* Model */,
+				FA4E41812575B80700716964 /* CourseList.swift */,
 				FA4E412025754C2C00716964 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -112,6 +225,7 @@
 				FA4E412D25754C2C00716964 /* DesignCodeCourse.app */,
 				FA4E413525754C2C00716964 /* Tests iOS.xctest */,
 				FA4E414025754C2C00716964 /* Tests macOS.xctest */,
+				FA4E41EC2576838600716964 /* DesignCodeWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -119,6 +233,7 @@
 		FA4E412725754C2C00716964 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
+				FA4E41BF2575DA2F00716964 /* VisualEffectBlur.swift */,
 				FA4E412825754C2C00716964 /* Info.plist */,
 			);
 			path = iOS;
@@ -127,6 +242,7 @@
 		FA4E412E25754C2C00716964 /* macOS */ = {
 			isa = PBXGroup;
 			children = (
+				FA4E41C52575DA4400716964 /* VisualEffectBlur.swift */,
 				FA4E412F25754C2C00716964 /* Info.plist */,
 				FA4E413025754C2C00716964 /* macOS.entitlements */,
 			);
@@ -151,6 +267,69 @@
 			path = "Tests macOS";
 			sourceTree = "<group>";
 		};
+		FA4E417B2575B74B00716964 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				FA4E411F25754C2A00716964 /* ContentView.swift */,
+				FA4E41CB257673A100716964 /* TabBar.swift */,
+				FA4E416D2575ADD300716964 /* Sidebar.swift */,
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
+		FA4E417C2575B76E00716964 /* Items */ = {
+			isa = PBXGroup;
+			children = (
+				FA4E41742575B60E00716964 /* Courseitem.swift */,
+				FA4E415F2575655C00716964 /* CourseRow.swift */,
+			);
+			path = Items;
+			sourceTree = "<group>";
+		};
+		FA4E41932575CA1D00716964 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FA4E41AA2575D87E00716964 /* CourseSection.swift */,
+				FA4E41AC2575D87E00716964 /* Download.swift */,
+				FA4E41AB2575D87E00716964 /* GradientModel.swift */,
+				FA4E41A82575D87E00716964 /* Livestream.swift */,
+				FA4E41A72575D87E00716964 /* LivestreamSection.swift */,
+				FA4E41A92575D87E00716964 /* Tutorial.swift */,
+				FA4E41A62575D87E00716964 /* TutorialSection.swift */,
+				FA4E418C2575C72200716964 /* Course.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FA4E41DF2576832B00716964 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				FA4E41982575D33900716964 /* CloseButton.swift */,
+				FA4E41D82576806B00716964 /* LibraryContent.swift */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		FA4E41ED2576838600716964 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FA4E41EE2576838600716964 /* WidgetKit.framework */,
+				FA4E41F02576838700716964 /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FA4E41F22576838700716964 /* DesignCodeWidget */ = {
+			isa = PBXGroup;
+			children = (
+				FA4E41F32576838700716964 /* DesignCodeWidget.swift */,
+				FA4E41F52576838700716964 /* DesignCodeWidget.intentdefinition */,
+				FA4E41F62576838900716964 /* Assets.xcassets */,
+				FA4E41F82576838900716964 /* Info.plist */,
+			);
+			path = DesignCodeWidget;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -161,10 +340,12 @@
 				FA4E412125754C2C00716964 /* Sources */,
 				FA4E412225754C2C00716964 /* Frameworks */,
 				FA4E412325754C2C00716964 /* Resources */,
+				FA4E42012576838900716964 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				FA4E41FC2576838900716964 /* PBXTargetDependency */,
 			);
 			name = "DesignCodeCourse (iOS)";
 			productName = "DesignCodeCourse (iOS)";
@@ -224,6 +405,23 @@
 			productReference = FA4E414025754C2C00716964 /* Tests macOS.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		FA4E41EB2576838600716964 /* DesignCodeWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA4E41FE2576838900716964 /* Build configuration list for PBXNativeTarget "DesignCodeWidgetExtension" */;
+			buildPhases = (
+				FA4E41E82576838600716964 /* Sources */,
+				FA4E41E92576838600716964 /* Frameworks */,
+				FA4E41EA2576838600716964 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DesignCodeWidgetExtension;
+			productName = DesignCodeWidgetExtension;
+			productReference = FA4E41EC2576838600716964 /* DesignCodeWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -247,6 +445,9 @@
 						CreatedOnToolsVersion = 12.2;
 						TestTargetID = FA4E412C25754C2C00716964;
 					};
+					FA4E41EB2576838600716964 = {
+						CreatedOnToolsVersion = 12.2;
+					};
 				};
 			};
 			buildConfigurationList = FA4E411C25754C2A00716964 /* Build configuration list for PBXProject "DesignCodeCourse" */;
@@ -266,6 +467,7 @@
 				FA4E412C25754C2C00716964 /* DesignCodeCourse (macOS) */,
 				FA4E413425754C2C00716964 /* Tests iOS */,
 				FA4E413F25754C2C00716964 /* Tests macOS */,
+				FA4E41EB2576838600716964 /* DesignCodeWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -301,6 +503,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FA4E41EA2576838600716964 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA4E42132576861800716964 /* Assets.xcassets in Resources */,
+				FA4E41F72576838900716964 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -308,8 +519,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA4E418D2575C72200716964 /* Course.swift in Sources */,
+				FA4E41D22576790800716964 /* CourseSectionDetail.swift in Sources */,
+				FA4E41AD2575D87E00716964 /* TutorialSection.swift in Sources */,
+				FA4E41CC257673A100716964 /* TabBar.swift in Sources */,
+				FA4E41B12575D87E00716964 /* Livestream.swift in Sources */,
+				FA4E416E2575ADD300716964 /* Sidebar.swift in Sources */,
+				FA4E41B52575D87E00716964 /* CourseSection.swift in Sources */,
 				FA4E414925754C2C00716964 /* ContentView.swift in Sources */,
+				FA4E41B32575D87E00716964 /* Tutorial.swift in Sources */,
+				FA4E41A02575D67F00716964 /* CourseDetail.swift in Sources */,
+				FA4E41B92575D87E00716964 /* Download.swift in Sources */,
+				FA4E41992575D33900716964 /* CloseButton.swift in Sources */,
+				FA4E41602575655C00716964 /* CourseRow.swift in Sources */,
 				FA4E414725754C2C00716964 /* DesignCodeCourseApp.swift in Sources */,
+				FA4E41672575AC8300716964 /* CoursesView.swift in Sources */,
+				FA4E41FA2576838900716964 /* DesignCodeWidget.intentdefinition in Sources */,
+				FA4E41752575B60E00716964 /* Courseitem.swift in Sources */,
+				FA4E41B72575D87E00716964 /* GradientModel.swift in Sources */,
+				FA4E41C02575DA2F00716964 /* VisualEffectBlur.swift in Sources */,
+				FA4E41822575B80700716964 /* CourseList.swift in Sources */,
+				FA4E41D92576806B00716964 /* LibraryContent.swift in Sources */,
+				FA4E41AF2575D87E00716964 /* LivestreamSection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -317,8 +548,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA4E418E2575C72300716964 /* Course.swift in Sources */,
+				FA4E41AE2575D87E00716964 /* TutorialSection.swift in Sources */,
+				FA4E41B22575D87E00716964 /* Livestream.swift in Sources */,
+				FA4E416F2575ADD300716964 /* Sidebar.swift in Sources */,
+				FA4E41B62575D87E00716964 /* CourseSection.swift in Sources */,
 				FA4E414A25754C2C00716964 /* ContentView.swift in Sources */,
+				FA4E41B42575D87E00716964 /* Tutorial.swift in Sources */,
+				FA4E41A12575D67F00716964 /* CourseDetail.swift in Sources */,
+				FA4E41D32576790800716964 /* CourseSectionDetail.swift in Sources */,
+				FA4E41BA2575D87E00716964 /* Download.swift in Sources */,
+				FA4E419A2575D33900716964 /* CloseButton.swift in Sources */,
+				FA4E41612575655C00716964 /* CourseRow.swift in Sources */,
 				FA4E414825754C2C00716964 /* DesignCodeCourseApp.swift in Sources */,
+				FA4E41682575AC8300716964 /* CoursesView.swift in Sources */,
+				FA4E41762575B60E00716964 /* Courseitem.swift in Sources */,
+				FA4E41B82575D87E00716964 /* GradientModel.swift in Sources */,
+				FA4E41C62575DA4400716964 /* VisualEffectBlur.swift in Sources */,
+				FA4E41832575B80700716964 /* CourseList.swift in Sources */,
+				FA4E41B02575D87E00716964 /* LivestreamSection.swift in Sources */,
+				FA4E41DA2576806B00716964 /* LibraryContent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,6 +587,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FA4E41E82576838600716964 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA4E420D2576860500716964 /* CourseSection.swift in Sources */,
+				FA4E41F42576838700716964 /* DesignCodeWidget.swift in Sources */,
+				FA4E4207257685D400716964 /* CourseRow.swift in Sources */,
+				FA4E41F92576838900716964 /* DesignCodeWidget.intentdefinition in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -350,6 +610,11 @@
 			isa = PBXTargetDependency;
 			target = FA4E412C25754C2C00716964 /* DesignCodeCourse (macOS) */;
 			targetProxy = FA4E414125754C2C00716964 /* PBXContainerItemProxy */;
+		};
+		FA4E41FC2576838900716964 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FA4E41EB2576838600716964 /* DesignCodeWidgetExtension */;
+			targetProxy = FA4E41FB2576838900716964 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -468,6 +733,7 @@
 		FA4E415025754C2C00716964 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
@@ -490,6 +756,7 @@
 		FA4E415125754C2C00716964 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
@@ -647,6 +914,53 @@
 			};
 			name = Release;
 		};
+		FA4E41FF2576838900716964 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F2NV98J775;
+				INFOPLIST_FILE = DesignCodeWidget/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.sigilwen.DesignCodeCourse.DesignCodeWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FA4E42002576838900716964 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F2NV98J775;
+				INFOPLIST_FILE = DesignCodeWidget/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.sigilwen.DesignCodeCourse.DesignCodeWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -691,6 +1005,15 @@
 			buildConfigurations = (
 				FA4E415925754C2C00716964 /* Debug */,
 				FA4E415A25754C2C00716964 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA4E41FE2576838900716964 /* Build configuration list for PBXNativeTarget "DesignCodeWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA4E41FF2576838900716964 /* Debug */,
+				FA4E42002576838900716964 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
